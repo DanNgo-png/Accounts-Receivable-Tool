@@ -51,12 +51,12 @@ The tool requires an Excel file (`.xlsx` or `.xls`) with specific columns for pr
 -   `InvoiceDate`: The date the invoice was issued (e.g., `YYYY-MM-DD`).
 -   `Amount`: The total amount of the invoice.
 
-### Sample `receivables.xlsx`:
+### Example:
 
 | InvoiceID | CustomerName  | InvoiceDate | Amount    |
 | :-------- | :------------ | :---------- | :-------- |
-| INV001    | Alpha Corp    | 2024-04-15  | 1500.00   |
-| INV002    | Bravo LLC     | 2024-05-01  | 250.75    |
-| INV003    | Charlie Inc   | 2024-05-20  | 800.50    |
-| INV004    | Delta Co      | 2024-03-10  | 3200.00   |
-| INV005    | Alpha Corp    | 2024-02-05  | 5000.00   |
+| INV001    | Customer 1    | 2024-04-15  | 1500.00   |
+| INV002    | Customer 2    | 2024-05-01  | 250.75    |
+| INV003    | Customer 3    | 2024-05-20  | 800.50    |
+| INV004    | Customer 4    | 2024-03-10  | 3200.00   |
+| INV005    | Customer 5    | 2024-02-05  | 5000.00   |
