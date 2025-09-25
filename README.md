@@ -15,7 +15,7 @@ A user-friendly desktop application built with Python to help businesses analyze
 
 Before you run the application, make sure you have Python installed on your system. You will also need to install the following libraries:
 
--   `customtkinter`
+-   `tkinter`
 -   `pandas`
 -   `openpyxl` (required by pandas to read `.xlsx` files)
 
