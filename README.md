@@ -2,8 +2,6 @@
 
 A user-friendly desktop application built with Python to help businesses analyze their accounts receivable data. This tool provides a clear overview of outstanding invoices, calculates aging buckets, highlights overdue items, and offers a simple cash inflow projection.
 
-![image](https://github.com/user-attachments/assets/b8849788-b413-4318-8f56-621f92e7681c)
-
 ## Features
 
 -   **Load Excel Data:** Easily import your accounts receivable ledger from an `.xlsx` or `.xls` file.
